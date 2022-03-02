@@ -1,5 +1,6 @@
 # Spectral Forecast equation VB6 app 1.0
 
+Spectral Forecast equation VB6 app 1.0
 
 ![screenshot](https://github.com/Gagniuc/Mix-signals-by-using-Spectral-Forecast-v1.0/blob/main/img/Spectral%20Forecast%20in%20VB%20(1).gif?raw=true)
 

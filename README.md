@@ -1,1 +1,1 @@
-# Spectral-Forecast-equation-VB6-app
+# Spectral Forecast equation VB6 app

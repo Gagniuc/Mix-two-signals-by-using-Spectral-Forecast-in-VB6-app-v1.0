@@ -20,3 +20,8 @@ Spectral Forecast equation VB6 app 1.0 - is a demo application designed in Visua
 ![screenshot](https://github.com/Gagniuc/Spectral-Forecast-equation-VB6-app/blob/main/img/sf5.png?raw=true)
 
 ![screenshot](https://github.com/Gagniuc/Spectral-Forecast-equation-VB6-app/blob/main/img/sf6.png?raw=true)
+
+
+# References
+
+<i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>

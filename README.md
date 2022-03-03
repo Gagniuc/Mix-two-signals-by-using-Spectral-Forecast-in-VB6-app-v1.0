@@ -1,6 +1,6 @@
 # Intro
 
-One can look at this project as an advertisement for my own mathematical model published in the journal [Chaos](https://aip.scitation.org/doi/10.1063/1.5120818). The model is called Spectral Forecast. The Spectral Forecast equation is a part of the Spectral Forecast model. The Spectral Forecast equation was initially used on matrices and other multidimensional mathematical objects. Here, a new utility is demonstrated for signals by using the equation on vectors of the same size. This new use on 1-dimensional objects was published [here](https://www.wiley.com/en-ie/Algorithms+in+Bioinformatics:+Theory+and+Implementation-p-9781119697992).
+One can look at this project as an advertisement for my own mathematical model published in the journal [Chaos](https://aip.scitation.org/doi/10.1063/1.5120818). The model is called Spectral Forecast. The Spectral Forecast equation is a part of the Spectral Forecast model. The Spectral Forecast equation was initially used on matrices and can be used on other multidimensional mathematical objects. Here, a new utility is demonstrated for signals by using the equation on vectors of the same size. This new use on 1-dimensional objects was published [here](https://www.wiley.com/en-ie/Algorithms+in+Bioinformatics:+Theory+and+Implementation-p-9781119697992).
 
 # Spectral Forecast equation (VB6 app 1.0)
 
